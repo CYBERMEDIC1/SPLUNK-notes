@@ -64,5 +64,5 @@ Splunk can ingest any data. As per the Splunk documentation, when data is added 
 # below are a few helpful links for splunk search queriess
 - Splunk Queries - https://github.com/ReZaAdineH/Reza-Adineh-Splunk-Queries-for-detection
 - Official Splunk Search examples - https://docs.splunk.com/Documentation/SCS/current/SearchReference/SearchCommandExamples
-
+- Splunk Use Cases - https://github.com/CYBERMEDIC1/SPLUNK-USE-CASES/blob/main/README.md
 

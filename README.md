@@ -56,8 +56,13 @@ Splunk can ingest any data. As per the Splunk documentation, when data is added 
 - Data sources are grouped into categories. Below is a chart listing from the Splunk documentation detailing each data source category.
 ![image](https://github.com/CYBERMEDIC1/SPLUNK-notes/assets/125709529/3cdfab75-3614-4c37-9298-9cc35805330a)
 
-# VPN log file for splunk found within tree of this repository
+- VPN log file for splunk found within tree of this repository
 
+# Interesting log Sources
+![image](https://github.com/CYBERMEDIC1/SPLUNK-notes/assets/125709529/48fdbdff-1ab6-49eb-b756-a5635d691c38)
 
+# below are a few helpful links for splunk search queriess
+- Splunk Queries - https://github.com/ReZaAdineH/Reza-Adineh-Splunk-Queries-for-detection
+- Official Splunk Search examples - https://docs.splunk.com/Documentation/SCS/current/SearchReference/SearchCommandExamples
 
 
